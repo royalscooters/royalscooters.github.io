@@ -2,47 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e3b524e-4d69-4906-8f41-4e1847b15c90" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-04-25-welcome-to-jekyll.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-04-25-welcome-to-jekyll.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-10-25-Electric Scooter MiJia Xiomi M365 Pro Black.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-10-25-Electric Scooter MiJia Xiomi M365 Pro Black.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/pages/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/pages/404.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/pages/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/xiaomi/M365P-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/xiaomi/M365P-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/xiaomi/M365P-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/xiaomi/M365P-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/xiaomi/M365P-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/xiaomi/Pro_01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/xiaomi/Pro_02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/xiaomi/Pro_03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/xiaomi/Xiaomi-Electric-Scooter.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/xiaomi/london-lime-m365-pro.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/xiaomi/london-m365-pro.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/posts/xiaomi/scooter-01-1442.jpg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -56,11 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/app.scss">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="page-hero.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/page-hero.html">
           <provider selected="true" editor-type-id="text-editor" />
@@ -109,11 +67,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-10-25-Electric Scooter MiJia Xiomi M365 Pro Black.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-10-25-Electric Scooter MiJia Xiomi M365 Pro Black.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-10-25-Electric Scooter MiJia Xiomi M365 Pro Black.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-04-25-welcome-to-jekyll.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-04-25-welcome-to-jekyll.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -147,6 +114,7 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_posts/2019-10-25-Electric Scooter MiJia Xiomi M365 Pro Black.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-04-25-welcome-to-jekyll.md" />
       </list>
     </option>
   </component>
@@ -235,12 +203,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571995335989</updated>
-      <workItem from="1571995338770" duration="12272000" />
+      <workItem from="1571995338770" duration="12641000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12272000" />
+    <option name="totallyTimeSpent" value="12641000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -430,7 +398,14 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-10-25-Electric Scooter MiJia Xiomi M365 Pro Black.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-04-25-welcome-to-jekyll.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>

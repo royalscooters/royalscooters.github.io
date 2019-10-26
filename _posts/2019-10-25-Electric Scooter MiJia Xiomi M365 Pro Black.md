@@ -3,7 +3,7 @@ layout: shop
 title: Electric Scooter Xiaomi Mijia M365 Pro for Adult Longboard Hoverboard Skateboard 2 Wheel with 45KM Mileage
 author: Slava Volokha
 tags: [M365Pro, scooter, Mijia]
-image: '/images/posts/xiaomi/xiaomi-electric-scooter.jpg'
+image: './images/posts/xiaomi/xiaomi-electric-scooter.jpg'
 ---
 
 
