@@ -6,9 +6,9 @@
         <h2>£{{ product.price }}</h2>
         <button
           class="snipcart-add-item c-btn c-btn--active c-btn--full"
-          data-item-id="{{ product.id }}"
+          data-item-id="{{ page.product_id }}"
           data-item-name="{{ product.name }}"
-          data-item-price="{{ product.price }}"
+          data-item-price='{{ product.price }}'
           data-item-image="{{ page.image }}"
           data-item-url="{{ site.baseurl }}{{ page.url }}"
           data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}">
