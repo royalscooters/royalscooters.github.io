@@ -12,7 +12,7 @@ title:              Mi Electric Scooters Xiaomi, Ninebot | Red Dot "Best of the 
 logo:               # Logo image URL
 description:        Light weight and foldable electric scooters, Best royal Xiaomi scooters from the UK's only specialist Electric Scooter store, Royal Scooters.
 baseurl:            '' # The subpath of your site, e.g. /blog
-url:                'https://royalscooters.co.uk/' # The base hostname & protocol for your site
+url:                'https://royalscooters.co.uk' # The base hostname & protocol for your site
 twitter:            https://twitter.com/royalscooters
 facebook:           https://www.facebook.com/royalscooters
 instagram:          https://www.instagram.com/royalscooters
