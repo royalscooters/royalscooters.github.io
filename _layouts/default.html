@@ -15,7 +15,7 @@
     {% include footer.html %}
   </div>
 
-  <script src="{{ '/js/jquery.min.js' | prepend: site.baseurl }}" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous">                 </script>
+  <script src="{{ '/js/jquery.min.js' | prepend: site.baseurl }}">                 </script>
   <script src="{{ '/js/jquery.viewportchecker.min.js' | prepend: site.baseurl }}"> </script>
   <script src="{{ '/js/jquery.ghostHunter.min.js' | prepend: site.baseurl }}">     </script>
   <script src="{{ '/js/evil-icons.min.js' | prepend: site.baseurl }}">             </script>
@@ -26,5 +26,8 @@
   <script src="{{ '/js/app.js' | prepend: site.baseurl }}">                        </script>
 
 </body>
+
+<div hidden id="snipcart" data-api-key="YjU0NGI5OTEtZjI2ZC00MGExLWFhMDEtYmJhZjUwYzhjN2EyNjM3MDcyOTE2OTgyNjQyMDY5"></div>
+<script src="https://cdn.snipcart.com/themes/v3.0.0-beta.3/default/snipcart.js" defer></script>
 
 </html>

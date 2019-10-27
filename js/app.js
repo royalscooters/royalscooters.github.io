@@ -127,7 +127,7 @@ $(document).ready(function() {
         removeClassAfterAnimation: true
       });
 
-      $load_posts_button.text('More Stories');
+      $load_posts_button.text('More Products');
       $load_posts_button.removeClass('c-btn--loading');
 
       pagination_next_page_number++;

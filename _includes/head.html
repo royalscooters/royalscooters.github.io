@@ -7,6 +7,7 @@
   <meta name='description' content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <link rel='canonical' href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel='alternate' type='application/rss+xml' title='{{ site.title }}' href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.0-beta.3/default/snipcart.css" />
 
   <style>
     {% capture inlineCSS %}
@@ -15,7 +16,6 @@
 
     {{ inlineCSS | scssify }}
   </style>
-  <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="YjU0NGI5OTEtZjI2ZC00MGExLWFhMDEtYmJhZjUwYzhjN2EyNjM3MDcyOTE2OTgyNjQyMDY5"></script>
 
   <script>
     var base_url = {{ site.baseurl | jsonify }},

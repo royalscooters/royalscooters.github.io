@@ -1,5 +1,9 @@
 <div class='c-sidebar'>
 
+  {% if page.product_id %}
+  {% include sidebar/widget-product.html %}
+  {% endif %}
+
   {% if page.author %}
     {% include sidebar/widget-author.html %}
   {% endif %}

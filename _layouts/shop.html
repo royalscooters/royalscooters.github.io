@@ -18,7 +18,13 @@ layout: default
       <article class='c-post'>
 
         <div class='c-content'>
+          {% if page.product_id %}
+          {% include sidebar/widget-product.html %}
+          {% endif %}
           {{ content }}
+          {% if page.product_id %}
+          {% include sidebar/widget-product.html %}
+          {% endif %}
         </div>
 
         <div class='o-grid'>
