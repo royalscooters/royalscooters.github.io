@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e3b524e-4d69-4906-8f41-4e1847b15c90" name="Default" comment="new name" />
+    <list default="true" id="0e3b524e-4d69-4906-8f41-4e1847b15c90" name="Default" comment="new name">
+      <change beforePath="$PROJECT_DIR$/_layouts/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/shop.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -23,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="product1.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="product1.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_products/product1.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -46,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shop.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shop.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/shop.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+              <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="27" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -130,7 +132,6 @@
         <option value="$PROJECT_DIR$/_includes/product-defintion.html" />
         <option value="$PROJECT_DIR$/_includes/product.html" />
         <option value="$PROJECT_DIR$/_pages/about.md" />
-        <option value="$PROJECT_DIR$/_products/product1.md" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
@@ -143,6 +144,7 @@
         <option value="$PROJECT_DIR$/_includes/sidebar/widget-product.html" />
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/_layouts/shop.html" />
+        <option value="$PROJECT_DIR$/_products/product1.md" />
       </list>
     </option>
   </component>
@@ -259,12 +261,12 @@
       <workItem from="1572109230349" duration="11784000" />
       <workItem from="1572261149347" duration="591000" />
       <workItem from="1572440874832" duration="1966000" />
-      <workItem from="1572523552243" duration="2617000" />
+      <workItem from="1572523552243" duration="2847000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29599000" />
+    <option name="totallyTimeSpent" value="29829000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -462,13 +464,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_products/product1.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/sidebar/widget-product.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -489,7 +484,14 @@
     <entry file="file://$PROJECT_DIR$/_layouts/shop.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_products/product1.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>

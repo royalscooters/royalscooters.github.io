@@ -1,7 +1,7 @@
 ---
 identifier: xiaomi-m365-pro
 name: Xiaomi M365 Pro
-price: 469
+price: 1
 id: m365pro
 ---
 
