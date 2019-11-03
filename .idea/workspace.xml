@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e3b524e-4d69-4906-8f41-4e1847b15c90" name="Default" comment="new name">
-      <change beforePath="$PROJECT_DIR$/_products/product1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_products/product1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/analytics.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/analytics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,13 +26,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="product1.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="product1.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_products/product1.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_pages/about.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="169" selection-start-line="6" selection-start-column="169" selection-end-line="6" selection-end-column="169" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analytics.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="london-m365-pro.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/posts/xiaomi/london-m365-pro.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="CNAME" pinned="false" current-in-tab="false">
@@ -52,25 +72,7 @@
         <entry file="file://$PROJECT_DIR$/_layouts/shop.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="27" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-10-25-Electric Scooter MiJia Xiomi M365 Pro Black.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-10-25-Electric Scooter MiJia Xiomi M365 Pro Black.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="901">
-              <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/head.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="90" selection-start-line="9" selection-start-column="90" selection-end-line="9" selection-end-column="90" />
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="27" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -82,11 +84,6 @@
               <caret line="32" column="81" selection-start-line="32" selection-start-column="81" selection-end-line="32" selection-end-column="81" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base_path" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/base_path">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
@@ -131,7 +128,6 @@
         <option value="$PROJECT_DIR$/_posts/2016-04-25-welcome-to-jekyll.md" />
         <option value="$PROJECT_DIR$/_includes/product-defintion.html" />
         <option value="$PROJECT_DIR$/_includes/product.html" />
-        <option value="$PROJECT_DIR$/_pages/about.md" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
@@ -145,6 +141,8 @@
         <option value="$PROJECT_DIR$/_layouts/shop.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_products/product1.md" />
+        <option value="$PROJECT_DIR$/_pages/about.md" />
+        <option value="$PROJECT_DIR$/_includes/analytics.html" />
       </list>
     </option>
   </component>
@@ -170,6 +168,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,11 +212,23 @@
               <item name="royalscooters.co.uk" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="royalscooters.co.uk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="royalscooters.co.uk" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="royalscooters.co.uk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="royalscooters.co.uk" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="posts" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomi" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,11 +273,12 @@
       <workItem from="1572261149347" duration="591000" />
       <workItem from="1572440874832" duration="1966000" />
       <workItem from="1572523552243" duration="4060000" />
+      <workItem from="1572806840522" duration="2283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31042000" />
+    <option name="totallyTimeSpent" value="33325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -298,12 +310,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/disqus.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/xiaomi/Pro_01.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -394,13 +400,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/product.html" />
     <entry file="file://$PROJECT_DIR$/_includes/product-defintion.html" />
-    <entry file="file://$PROJECT_DIR$/_pages/about.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -477,7 +476,7 @@
     <entry file="file://$PROJECT_DIR$/_layouts/shop.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="27" selection-end-column="21" />
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="27" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -494,6 +493,19 @@
           <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/xiaomi/london-m365-pro.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/about.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="169" selection-start-line="6" selection-start-column="169" selection-end-line="6" selection-end-column="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

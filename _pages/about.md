@@ -1,11 +1,7 @@
 ---
 layout: page
 title: About
-image: 'http://127.0.0.1:4000/images/pages/1.jpg'
+image: '/images/posts/xiaomi/london-m365-pro.jpg'
 ---
 
-You love minimalism, want to be productive focusing only on the important things and want to take jekyll to the next level, Nubia is designed for you. Nubia focus on showing your content in a clean and simple way, focus on images, typography, and white space.
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+Hey, My name is Slava and I started to sell Electric scooters cause I'm saving almost 40 minutes per day using [Xiaomi M365 Pro](/2019/10/25/Electric-Scooter-MiJia-Xiomi-M365-Pro-Black/) to commute to the office in London instead of using tube of public transport.
