@@ -8,6 +8,29 @@ image: '/images/products/xiaomi/xiaomi-m365-pro.jpg'
 ---
 
 
+##### The Must-have for Urban Short-distance Travel
+
+>**3 Speed Modes:** 15/20/25 km/h to meet your needs.
+
+>**3s Fast Fold:** conveniently take on buses and subways.
+
+>**Small Folded Size:** fits most small vehicle trunk.
+
+>**Only 14.2Kg:** even girls can carry it easily.
+
+![Image](/images/products/xiaomi/xiaomi-electric-scooter.jpg)
+
+
+##### Works As Simple As It Looks
+There is only one button on this scotter, the number on the control panel is big and easy-to-read, ensures no distraction during the ride. You can also use app to controll it.
+
+>**Control panel:** Speed / Battery / Repair Situation
+
+>**APP:** Unlock / Ride Statistic / Firmware update / Set Speed
+
+![Image](/images/products/xiaomi/xiaomi-m365-pro-handlebar.png)
+
+
 ##### 45Km Long-range Battery
 >Just like it's predecessor the M365 PRO also stores and converts kinetic energy while into power, meaning it will slowly charge while in use.
 

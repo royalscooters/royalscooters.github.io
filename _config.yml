@@ -18,7 +18,7 @@ facebook:           https://www.facebook.com/royalscooters
 instagram:          https://www.instagram.com/royalscooters
 
 markdown:  kramdown
-permalink: pretty
+permalink: /:title
 paginate:  11
 sass:
   style: compressed
